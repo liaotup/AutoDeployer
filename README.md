@@ -55,12 +55,12 @@
 
 > VCS Server (Git)端脚本后台运行命令：**#python main.py &**
 
-> Tomcat Server (Git Client)端要先要配置免密码pull，方法有很多。 (希望有更多pull request补充)
+> Tomcat Server (Git Client)端要先要配置免密码pull，方法有很多。 (希望有大家更多的pull request补充)
 
 > 如 创建一个没密码的ssh key, 再配置 **/etc/ssh/ssh_config** 文件中的下面属性，如果被注释就打开。
 - StrictHostKeyChecking no
 
-> 这篇MarkDown已经用尽了我的洋墨水，应该是错漏百出的，希望有更多大家pull request来完善。
+> 这篇MarkDown已经用尽了我的洋墨水，应该是错漏百出的，希望有大家更多的pull request完善。
 
  -
 
