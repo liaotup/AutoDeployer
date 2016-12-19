@@ -33,7 +33,7 @@
 >   * 部署脚本 —— 由 **更新监听器** 调用，负责部署新版本的内容到服务目录中的整理个过程（包括重启服务器等，若有需要）。
 
  -
-> Tool include **VCS Server (Git)** and **Tomcat Server (Git Client)** ：
+> This Tool include **VCS Server (Git)** and **Tomcat Server (Git Client)** ：
 
 > * VCS Server (Git) part install in Version Control Server，consist of **Hook Script** and **Notification Script** .
 >   * Hook Script —— It will call when a new version to push.
