@@ -16,8 +16,15 @@
 
 > AutoDeployer compose with script of **Python** and **Shell**
 
-
 ### 如何使用? —— How To Use？
+
+> 安装完成后，每个提交代码的时候，只明备注信息包含 **[AUTODT]** 字符串，Git Server就会通知Tomcat服务器更新并部署代码。
+
+ -
+
+> Have been install the tool, ever new version to push with the message contain of **[AUTODT]**，that Git Server would notify Tomcat Server to pull and redeploy the new version。
+
+### 如何安装? —— How To Install？
 
 > 该工具包括两个部分 **VCS Server (Git)** 和 **Tomcat Server (Git Client)** ：
 
