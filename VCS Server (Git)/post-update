@@ -1,0 +1,3 @@
+#!/bin/bash
+echo 'Notification Clients'
+/home/git/gitBase/ProjectName/hooks/notifycation.sh
