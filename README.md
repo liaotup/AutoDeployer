@@ -1,5 +1,6 @@
 ## Auto Deployer Depend on VCS —— 基于VCS的项目自动部署工具
 ***
+<font color="#E33152" size = "6px">代码更新到服务器后需要对Java等代码编译（或者是其他语言需要编译的代码），希望收到这方面的pull request.</font>
 ### 简介 —— Introduction
 
 >适用于多种服务器环境的自动部署 ( Tomcat、Nginx、PHP、Python、NodeJS、Apache... )。
